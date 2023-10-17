@@ -6,17 +6,17 @@ processes in software development. I am working with manual and automated tests 
 RestAssured with standard page objects. In the project we use JIRA as an ALM tool for managing activities, git and github for versioning the automated test code. 
 I have intermediate - advanced English, with excellent written and conversational understanding
 
-## ACADEMIC EDUCATION
+## 📘 ACADEMIC EDUCATION
 
 - Higher Education Course in Law - Centro Universtário de João Pessoa (2009 – 2013)
 - Software Development and Quality Technician – E2E Treinamentos (2023)
 
-## PROFESSIONAL EXPERIENCE
+## 💻 PROFESSIONAL EXPERIENCE
 
 * E2E Coders (2020 – 2023) *
 Job Title: Test Analyst
 
-### Responsibilities:
+### 👨‍🔬 Responsibilities:
 • Refinement of user stories;
 • Scoring user stories with the Task Poker tool;
 • Participation in all meetings (Planning, Daily, Review and Retrospective);
@@ -41,7 +41,7 @@ Job Title: Test Analyst
 • Quick test on Mobile
 
 
-## EXTRACURRICULAR COURSES
+## ⌛ EXTRACURRICULAR COURSES
 
 - [x] Java, Selenium, Cucumber, Postman and Restored Test Automation
 - [x] Java programming logic
