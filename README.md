@@ -5,3 +5,9 @@ improving the culture and quality process within the SDLC. I consider myself a h
 processes in software development. I am working with manual and automated tests in a project using the tools: Postman, Selenium Web Driver, Cucumber(BDD) , JUnit and 
 RestAssured with standard page objects. In the project we use JIRA as an ALM tool for managing activities, git and github for versioning the automated test code. 
 I have intermediate - advanced English, with excellent written and conversational understanding
+
+- [x] Java, Selenium, Cucumber, Postman and Restored Test Automation
+- [x] Java programming logic
+- [x] Agile model (Currently studying)
+- [x] CCAA English course (3rd full semester)
+- [x] Linguages English course (book 3 – ongoing)  
