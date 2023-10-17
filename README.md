@@ -51,5 +51,5 @@ Job Title: Test Analyst
 
 ## 🔗 Linkedin Profile
 
- ![![linkedin (1)](https://github.com/diegosousa1217/diegosousa1217/assets/147568871/c4b79b18-9f15-4b95-bfd7-cd87da4504c8)
-](https://www.linkedin.com/in/diego-sousa-383b2b291/)
+![image](https://github.com/diegosousa1217/diegosousa1217/assets/147568871/f650c776-ed86-4a33-a46b-9405eb0bc16e)
+[](https://www.linkedin.com/in/diego-sousa-383b2b291/)
