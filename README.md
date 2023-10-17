@@ -6,6 +6,7 @@ processes in software development. I am working with manual and automated tests 
 RestAssured with standard page objects. In the project we use JIRA as an ALM tool for managing activities, git and github for versioning the automated test code. 
 I have intermediate - advanced English, with excellent written and conversational understanding
 
+## EXTRACURRICULAR COURSES
 - [x] Java, Selenium, Cucumber, Postman and Restored Test Automation
 - [x] Java programming logic
 - [x] Agile model (Currently studying)
