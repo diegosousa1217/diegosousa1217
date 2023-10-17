@@ -50,6 +50,7 @@ Job Title: Test Analyst
 - [x] Linguages English course (book 3 – ongoing)
 
 ## 🔗 Linkedin Profile
+![linkedin (1)](https://github.com/diegosousa1217/diegosousa1217/assets/147568871/721e4a6e-98ac-459a-ae79-9d007bcdd695)
 
-![image](https://github.com/diegosousa1217/diegosousa1217/assets/147568871/f650c776-ed86-4a33-a46b-9405eb0bc16e)
-[](https://www.linkedin.com/in/diego-sousa-383b2b291/)
+
+
