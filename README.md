@@ -1,4 +1,4 @@
-#👋 Hi, I’m *Diego Sousa!...*
+# 👋 Hi, I’m *Diego Sousa!...*
 
 I am currently responsible for ensuring software quality in the development pipeline, applying concepts from the shift left testing culture, 
 improving the culture and quality process within the SDLC. I consider myself a hands-on professional who easily learns new technologies, business rules and quality
