@@ -13,7 +13,7 @@ RestAssured with standard page objects***. In the project we use ***JIRA as an A
 
 ## 💻 PROFESSIONAL EXPERIENCE
 
-**E2E Coders (2020 – 2023)** - Job Title: Test Analyst
+***E2E Coders (2020 – 2023)*** - Job Title: Test Analyst
 
 ### 👨‍🔬 Responsibilities:
 • Refinement of user stories;
