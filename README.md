@@ -47,7 +47,7 @@ Job Title: Test Analyst
 - [x] Java programming logic
 - [x] Agile model (Currently studying)
 - [x] CCAA English course (3rd full semester)
+- [x] Linguages English course (book 3 – ongoing)
 
 ## Linkedin Profile
 [Linkedin](https://www.linkedin.com/in/diego-sousa-383b2b291/)
-- [x] Linguages English course (book 3 – ongoing)  
