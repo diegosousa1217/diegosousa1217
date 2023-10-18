@@ -47,6 +47,9 @@ RestAssured with standard page objects***. In the project we use ***JIRA as an A
 - [x] Agile model (Currently studying)
 - [x] CCAA English course (3rd full semester)
 - [x] Linguages English course (book 3 – ongoing)
+- [x] JavaScrip and NodeJs course
+- [X] Git and GitHub Course
+
 
 ## 🔗 Linkedin Profile
 
