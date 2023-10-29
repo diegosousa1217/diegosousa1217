@@ -42,7 +42,7 @@ RestAssured with standard page objects***. In the project we use ***JIRA as an A
 
 ## ⌛ EXTRACURRICULAR COURSES
 
-- [x] Java, Selenium, Cucumber, Postman and Restored Test Automation
+- [x] Java, Selenium, Cucumber, Postman and Restassured Test Automation
 - [x] Java programming logic
 - [x] Agile model (Currently studying)
 - [x] CCAA English course (3rd full semester)
