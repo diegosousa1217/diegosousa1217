@@ -49,7 +49,7 @@ RestAssured with standard page objects***. In the project we use ***JIRA as an A
 - [x] Linguages English Course (book 3 – ongoing)
 - [x] JavaScrip and NodeJs Course
 - [X] Git and GitHub Course
-- [ ] Advanced Excel Course
+- [X] Advanced Excel Course
 
 
 ## 🔗 Linkedin Profile
