@@ -43,12 +43,13 @@ RestAssured with standard page objects***. In the project we use ***JIRA as an A
 ## ⌛ EXTRACURRICULAR COURSES
 
 - [x] Java, Selenium, Cucumber, Postman and Restassured Test Automation
-- [x] Java programming logic
+- [x] Java Programming Logic
 - [x] Agile model (Currently studying)
-- [x] CCAA English course (3rd full semester)
-- [x] Linguages English course (book 3 – ongoing)
-- [x] JavaScrip and NodeJs course
+- [x] CCAA English Course (3rd full semester)
+- [x] Linguages English Course (book 3 – ongoing)
+- [x] JavaScrip and NodeJs Course
 - [X] Git and GitHub Course
+- [ ] Advanced Excel Course
 
 
 ## 🔗 Linkedin Profile
