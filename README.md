@@ -8,8 +8,13 @@ RestAssured with standard page objects***. In the project we use ***JIRA as an A
 
 ## 📘 ACADEMIC EDUCATION
 
-- Higher Education Course in Law - Centro Universtário de João Pessoa (2009 – 2013)
-- Software Development and Quality Technician – E2E Treinamentos (2023)
+- Anhanguera University – Postgraduate Lato Sensu - Specialization in Software Engineering with Emphasis on Quality and Software Testing (2024 – 2024)
+- UNIDERP - MBA in Software Quality Management (2025 – Ongoing)
+- Anhanguera University – Systems Analysis and Development (2024 – Ongoing)
+- Technical Course in Software Development and Quality – E2E Training (2023 – 2024)
+- Bachelor's Degree in Law - João Pessoa University Center (2009 – 2013)
+
+
 
 ## 💻 PROFESSIONAL EXPERIENCE
 
